@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/go-acme/lego/v4/platform/tester"
+	"github.com/fibbs/lego/v4/platform/tester"
 	"github.com/stretchr/testify/suite"
 )
 

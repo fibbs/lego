@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/go-acme/lego/v4/log"
+	"github.com/fibbs/lego/v4/log"
 )
 
 const apiKeyHeader = "X-Api-Key"

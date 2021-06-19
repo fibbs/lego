@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-acme/lego/v4/acme"
-	"github.com/go-acme/lego/v4/challenge"
-	"github.com/go-acme/lego/v4/log"
+	"github.com/fibbs/lego/v4/acme"
+	"github.com/fibbs/lego/v4/challenge"
+	"github.com/fibbs/lego/v4/log"
 )
 
 // Interface for all challenge solvers to implement.
